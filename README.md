@@ -8,8 +8,8 @@ Tools to install:
  - Bicep Extension in VS-Code
  - Azure PowerShell, Url: https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install#azure-powershell
 
-// check if bicep is already installed
-cmd: bicep --version
+// check if bicep is already installed  
+cmd: bicep --version  
 // log in to azure account by CLI  (open neu terminal in VS-Code)
 cmd: az login
 
